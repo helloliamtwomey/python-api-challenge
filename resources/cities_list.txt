@@ -1,0 +1,547 @@
+Processing Record 1 | the city of: carnarvon has been added
+Processing Record 2 | the city of: kapaa has been added
+Processing Record 3 | the city of: kitui has been added
+Processing Record 4 | the city of: brae has been added
+Processing Record 5 | the city of: dolores has been added
+Processing Record 6 | the city of: los llanos de aridane has been added
+Processing Record 7 | the city of: palembang has been added
+Processing Record 8 | the city of: dikson has been added
+Processing Record 9 | the city of: whitehorse has been added
+Processing Record 10 | the city of: ushuaia has been added
+Processing Record 11 | the city of: rikitea has been added
+Processing Record 11 | The city of rungata is unavailable
+Processing Record 12 | the city of: bluff has been added
+Processing Record 13 | the city of: jamestown has been added
+Processing Record 14 | the city of: inta has been added
+Processing Record 15 | the city of: anadyr has been added
+Processing Record 16 | the city of: longyearbyen has been added
+Processing Record 17 | the city of: saint-philippe has been added
+Processing Record 18 | the city of: constitucion has been added
+Processing Record 19 | the city of: slavutych has been added
+Processing Record 20 | the city of: yellowknife has been added
+Processing Record 21 | the city of: ponte de sor has been added
+Processing Record 22 | the city of: vaini has been added
+Processing Record 23 | the city of: hithadhoo has been added
+Processing Record 23 | The city of taolanaro is unavailable
+Processing Record 24 | the city of: san juan has been added
+Processing Record 24 | The city of illoqqortoormiut is unavailable
+Processing Record 25 | the city of: vitim has been added
+Processing Record 26 | the city of: voyvozh has been added
+Processing Record 27 | the city of: manga has been added
+Processing Record 28 | the city of: taltal has been added
+Processing Record 29 | the city of: hambantota has been added
+Processing Record 30 | the city of: margate has been added
+Processing Record 31 | the city of: mataura has been added
+Processing Record 32 | the city of: vanimo has been added
+Processing Record 33 | the city of: porto santo has been added
+Processing Record 34 | the city of: evensk has been added
+Processing Record 35 | the city of: red bluff has been added
+Processing Record 36 | the city of: chuy has been added
+Processing Record 37 | the city of: mar del plata has been added
+Processing Record 38 | the city of: tromso has been added
+Processing Record 39 | the city of: zhanaozen has been added
+Processing Record 40 | the city of: murgab has been added
+Processing Record 41 | the city of: rafraf has been added
+Processing Record 42 | the city of: basco has been added
+Processing Record 43 | the city of: tingo maria has been added
+Processing Record 44 | the city of: jawhar has been added
+Processing Record 45 | the city of: ribeira grande has been added
+Processing Record 46 | the city of: ponta do sol has been added
+Processing Record 47 | the city of: port elizabeth has been added
+Processing Record 47 | The city of saleaula is unavailable
+Processing Record 48 | the city of: arman has been added
+Processing Record 49 | the city of: albany has been added
+Processing Record 50 | the city of: oshawa has been added
+Processing Record 51 | the city of: russell has been added
+Processing Record 52 | the city of: yoichi has been added
+Processing Record 53 | the city of: punta arenas has been added
+Processing Record 54 | the city of: abu dhabi has been added
+Processing Record 55 | the city of: college has been added
+Processing Record 56 | the city of: flin flon has been added
+Processing Record 57 | the city of: busselton has been added
+Processing Record 58 | the city of: kalemie has been added
+Processing Record 59 | the city of: kimbe has been added
+Processing Record 60 | the city of: kodiak has been added
+Processing Record 61 | the city of: tuktoyaktuk has been added
+Processing Record 62 | the city of: mistelbach has been added
+Processing Record 63 | the city of: atuona has been added
+Processing Record 64 | the city of: kahului has been added
+Processing Record 65 | the city of: nikolskoye has been added
+Processing Record 66 | the city of: cayenne has been added
+Processing Record 67 | the city of: georgetown has been added
+Processing Record 68 | the city of: longido has been added
+Processing Record 69 | the city of: hermanus has been added
+Processing Record 69 | The city of labutta is unavailable
+Processing Record 70 | the city of: marawi has been added
+Processing Record 70 | The city of grand river south east is unavailable
+Processing Record 71 | the city of: wanning has been added
+Processing Record 72 | the city of: butaritari has been added
+Processing Record 73 | the city of: ilulissat has been added
+Processing Record 74 | the city of: namatanai has been added
+Processing Record 75 | the city of: manzhouli has been added
+Processing Record 76 | the city of: kiama has been added
+Processing Record 77 | the city of: cape town has been added
+Processing Record 78 | the city of: kavieng has been added
+Processing Record 79 | the city of: yumen has been added
+Processing Record 80 | the city of: airai has been added
+Processing Record 81 | the city of: bayan has been added
+Processing Record 82 | the city of: yakeshi has been added
+Processing Record 83 | the city of: tiksi has been added
+Processing Record 84 | the city of: peleduy has been added
+Processing Record 85 | the city of: thompson has been added
+Processing Record 86 | the city of: kudahuvadhoo has been added
+Processing Record 87 | the city of: yar-sale has been added
+Processing Record 88 | the city of: avarua has been added
+Processing Record 89 | the city of: east london has been added
+Processing Record 90 | the city of: saskylakh has been added
+Processing Record 91 | the city of: tucupita has been added
+Processing Record 92 | the city of: qaanaaq has been added
+Processing Record 92 | The city of tabiauea is unavailable
+Processing Record 93 | the city of: hofn has been added
+Processing Record 94 | the city of: nemuro has been added
+Processing Record 95 | the city of: kyshtovka has been added
+Processing Record 96 | the city of: puerto ayora has been added
+Processing Record 97 | the city of: negombo has been added
+Processing Record 97 | The city of mys shmidta is unavailable
+Processing Record 98 | the city of: sidney has been added
+Processing Record 99 | the city of: viedma has been added
+Processing Record 100 | the city of: salta has been added
+Processing Record 101 | the city of: souillac has been added
+Processing Record 102 | the city of: zeya has been added
+Processing Record 103 | the city of: storforshei has been added
+Processing Record 104 | the city of: nome has been added
+Processing Record 105 | the city of: aswan has been added
+Processing Record 106 | the city of: arraial do cabo has been added
+Processing Record 107 | the city of: lebu has been added
+Processing Record 108 | the city of: ondjiva has been added
+Processing Record 109 | the city of: yerbogachen has been added
+Processing Record 110 | the city of: san ramon de la nueva oran has been added
+Processing Record 111 | the city of: sunndalsora has been added
+Processing Record 112 | the city of: pevek has been added
+Processing Record 113 | the city of: sao filipe has been added
+Processing Record 113 | The city of amderma is unavailable
+Processing Record 114 | the city of: la baule-escoublac has been added
+Processing Record 115 | the city of: port alfred has been added
+Processing Record 116 | the city of: ponta delgada has been added
+Processing Record 117 | the city of: jinxi has been added
+Processing Record 118 | the city of: bud has been added
+Processing Record 119 | the city of: hilo has been added
+Processing Record 120 | the city of: coquimbo has been added
+Processing Record 121 | the city of: khatanga has been added
+Processing Record 122 | the city of: loubomo has been added
+Processing Record 123 | the city of: satna has been added
+Processing Record 124 | the city of: djambala has been added
+Processing Record 125 | the city of: vestmannaeyjar has been added
+Processing Record 126 | the city of: morehead has been added
+Processing Record 127 | the city of: hobart has been added
+Processing Record 128 | the city of: namibe has been added
+Processing Record 129 | the city of: herat has been added
+Processing Record 130 | the city of: barcelos has been added
+Processing Record 131 | the city of: codrington has been added
+Processing Record 132 | the city of: walvis bay has been added
+Processing Record 133 | the city of: marystown has been added
+Processing Record 134 | the city of: valparaiso has been added
+Processing Record 135 | the city of: katsuura has been added
+Processing Record 136 | the city of: hauterive has been added
+Processing Record 137 | the city of: guanica has been added
+Processing Record 138 | the city of: inhambane has been added
+Processing Record 139 | the city of: mahebourg has been added
+Processing Record 140 | the city of: fatehpur has been added
+Processing Record 141 | the city of: berlevag has been added
+Processing Record 142 | the city of: comodoro rivadavia has been added
+Processing Record 143 | the city of: les cayes has been added
+Processing Record 143 | The city of barentsburg is unavailable
+Processing Record 144 | the city of: razole has been added
+Processing Record 145 | the city of: new norfolk has been added
+Processing Record 146 | the city of: gorontalo has been added
+Processing Record 147 | the city of: cairns has been added
+Processing Record 148 | the city of: padilla has been added
+Processing Record 149 | the city of: galich has been added
+Processing Record 150 | the city of: cabo san lucas has been added
+Processing Record 151 | the city of: east stroudsburg has been added
+Processing Record 152 | the city of: lata has been added
+Processing Record 153 | the city of: karaj has been added
+Processing Record 154 | the city of: upernavik has been added
+Processing Record 155 | the city of: chokurdakh has been added
+Processing Record 156 | the city of: tual has been added
+Processing Record 157 | the city of: gallup has been added
+Processing Record 158 | the city of: bambous virieux has been added
+Processing Record 158 | The city of tidore is unavailable
+Processing Record 159 | the city of: keuruu has been added
+Processing Record 160 | the city of: mutis has been added
+Processing Record 161 | the city of: rognan has been added
+Processing Record 162 | the city of: adrar has been added
+Processing Record 163 | the city of: bourail has been added
+Processing Record 164 | the city of: camacha has been added
+Processing Record 165 | the city of: sao miguel do tapuio has been added
+Processing Record 166 | the city of: parnamirim has been added
+Processing Record 167 | the city of: kloulklubed has been added
+Processing Record 168 | the city of: biga has been added
+Processing Record 169 | the city of: acapulco has been added
+Processing Record 170 | the city of: vardo has been added
+Processing Record 171 | the city of: sechura has been added
+Processing Record 171 | The city of mirina is unavailable
+Processing Record 172 | the city of: sambava has been added
+Processing Record 173 | the city of: clyde river has been added
+Processing Record 173 | The city of saint quentin is unavailable
+Processing Record 174 | the city of: abu samrah has been added
+Processing Record 175 | the city of: newport has been added
+Processing Record 176 | the city of: usinsk has been added
+Processing Record 176 | The city of wahran is unavailable
+Processing Record 177 | the city of: kismayo has been added
+Processing Record 178 | the city of: scottsbluff has been added
+Processing Record 178 | The city of palabuhanratu is unavailable
+Processing Record 179 | the city of: panjakent has been added
+Processing Record 180 | the city of: kruisfontein has been added
+Processing Record 180 | The city of dolbeau is unavailable
+Processing Record 181 | the city of: jalu has been added
+Processing Record 182 | the city of: oudtshoorn has been added
+Processing Record 183 | the city of: bredasdorp has been added
+Processing Record 184 | the city of: yatou has been added
+Processing Record 185 | the city of: kushmurun has been added
+Processing Record 186 | the city of: nyurba has been added
+Processing Record 187 | the city of: uruguaiana has been added
+Processing Record 188 | the city of: port pirie has been added
+Processing Record 189 | the city of: kasungu has been added
+Processing Record 190 | the city of: marrakesh has been added
+Processing Record 191 | the city of: popondetta has been added
+Processing Record 192 | the city of: villa carlos paz has been added
+Processing Record 193 | the city of: sur has been added
+Processing Record 194 | the city of: baraki barak has been added
+Processing Record 195 | the city of: wanaka has been added
+Processing Record 196 | the city of: flinders has been added
+Processing Record 197 | the city of: soyo has been added
+Processing Record 198 | the city of: saldanha has been added
+Processing Record 199 | the city of: ugoofaaru has been added
+Processing Record 199 | The city of attawapiskat is unavailable
+Processing Record 200 | the city of: kindersley has been added
+Processing Record 200 | The city of karakendzha is unavailable
+Processing Record 201 | the city of: castro has been added
+Processing Record 202 | the city of: moerai has been added
+Processing Record 203 | the city of: klaksvik has been added
+Processing Record 204 | the city of: biltine has been added
+Processing Record 205 | the city of: jaltocan has been added
+Processing Record 206 | the city of: pisco has been added
+Processing Record 207 | the city of: homer has been added
+Processing Record 208 | the city of: ust-nera has been added
+Processing Record 208 | The city of pousat is unavailable
+Processing Record 209 | the city of: paamiut has been added
+Processing Record 210 | the city of: padang has been added
+Processing Record 211 | the city of: matara has been added
+Processing Record 212 | the city of: rio grande has been added
+Processing Record 213 | the city of: ukiah has been added
+Processing Record 214 | the city of: almeirim has been added
+Processing Record 215 | the city of: wajir has been added
+Processing Record 216 | the city of: cooma has been added
+Processing Record 217 | the city of: barrow has been added
+Processing Record 218 | the city of: yeniseysk has been added
+Processing Record 1 | the city of: kapaa has been added
+Processing Record 2 | the city of: gravdal has been added
+Processing Record 3 | the city of: berlevag has been added
+Processing Record 4 | the city of: saint-philippe has been added
+Processing Record 5 | the city of: charyshskoye has been added
+Processing Record 6 | the city of: bredasdorp has been added
+Processing Record 6 | The city of attawapiskat is unavailable
+Processing Record 6 | The city of samusu is unavailable
+Processing Record 7 | the city of: busselton has been added
+Processing Record 8 | the city of: puerto ayora has been added
+Processing Record 9 | the city of: mataura has been added
+Processing Record 10 | the city of: hobart has been added
+Processing Record 11 | the city of: vaini has been added
+Processing Record 12 | the city of: tura has been added
+Processing Record 13 | the city of: port hardy has been added
+Processing Record 14 | the city of: castro has been added
+Processing Record 15 | the city of: tuktoyaktuk has been added
+Processing Record 16 | the city of: zhezkazgan has been added
+Processing Record 17 | the city of: kurchum has been added
+Processing Record 18 | the city of: goderich has been added
+Processing Record 19 | the city of: yellowknife has been added
+Processing Record 20 | the city of: aktau has been added
+Processing Record 21 | the city of: saint-denis has been added
+Processing Record 21 | The city of taolanaro is unavailable
+Processing Record 22 | the city of: half moon bay has been added
+Processing Record 23 | the city of: albany has been added
+Processing Record 24 | the city of: butaritari has been added
+Processing Record 25 | the city of: san patricio has been added
+Processing Record 26 | the city of: mayo has been added
+Processing Record 27 | the city of: flinders has been added
+Processing Record 28 | the city of: victoria has been added
+Processing Record 29 | the city of: hanna has been added
+Processing Record 30 | the city of: yeppoon has been added
+Processing Record 30 | The city of bababe is unavailable
+Processing Record 31 | the city of: ponta do sol has been added
+Processing Record 32 | the city of: arraial do cabo has been added
+Processing Record 33 | the city of: rabo de peixe has been added
+Processing Record 34 | the city of: bambous virieux has been added
+Processing Record 35 | the city of: saskylakh has been added
+Processing Record 36 | the city of: hirara has been added
+Processing Record 37 | the city of: ushuaia has been added
+Processing Record 38 | the city of: tilichiki has been added
+Processing Record 39 | the city of: rancho palos verdes has been added
+Processing Record 40 | the city of: salalah has been added
+Processing Record 41 | the city of: hermanus has been added
+Processing Record 42 | the city of: bluff has been added
+Processing Record 43 | the city of: thunder bay has been added
+Processing Record 44 | the city of: mar del plata has been added
+Processing Record 45 | the city of: coihaique has been added
+Processing Record 46 | the city of: lavrentiya has been added
+Processing Record 47 | the city of: preeceville has been added
+Processing Record 48 | the city of: provideniya has been added
+Processing Record 49 | the city of: anadyr has been added
+Processing Record 50 | the city of: vestmanna has been added
+Processing Record 51 | the city of: biak has been added
+Processing Record 52 | the city of: faanui has been added
+Processing Record 53 | the city of: kaitangata has been added
+Processing Record 54 | the city of: sao filipe has been added
+Processing Record 55 | the city of: port alfred has been added
+Processing Record 56 | the city of: rikitea has been added
+Processing Record 57 | the city of: majene has been added
+Processing Record 58 | the city of: longyearbyen has been added
+Processing Record 59 | the city of: atuona has been added
+Processing Record 60 | the city of: dingle has been added
+Processing Record 61 | the city of: alofi has been added
+Processing Record 62 | the city of: east london has been added
+Processing Record 62 | The city of barentsburg is unavailable
+Processing Record 62 | The city of amderma is unavailable
+Processing Record 63 | the city of: hilo has been added
+Processing Record 64 | the city of: waipawa has been added
+Processing Record 65 | the city of: tasiilaq has been added
+Processing Record 66 | the city of: kasongo-lunda has been added
+Processing Record 67 | the city of: flin flon has been added
+Processing Record 68 | the city of: avarua has been added
+Processing Record 69 | the city of: aklavik has been added
+Processing Record 70 | the city of: namatanai has been added
+Processing Record 70 | The city of tapaua is unavailable
+Processing Record 71 | the city of: cape town has been added
+Processing Record 72 | the city of: severo-kurilsk has been added
+Processing Record 73 | the city of: nanortalik has been added
+Processing Record 74 | the city of: karratha has been added
+Processing Record 75 | the city of: luanda has been added
+Processing Record 76 | the city of: carnarvon has been added
+Processing Record 77 | the city of: la ronge has been added
+Processing Record 78 | the city of: aksarka has been added
+Processing Record 78 | The city of bokspits is unavailable
+Processing Record 79 | the city of: villa maria has been added
+Processing Record 80 | the city of: pochutla has been added
+Processing Record 81 | the city of: ambon has been added
+Processing Record 81 | The city of meyungs is unavailable
+Processing Record 82 | the city of: ribeira grande has been added
+Processing Record 83 | the city of: homer has been added
+Processing Record 84 | the city of: mahebourg has been added
+Processing Record 85 | the city of: starodub has been added
+Processing Record 86 | the city of: barranca has been added
+Processing Record 87 | the city of: qaanaaq has been added
+Processing Record 88 | the city of: sorland has been added
+Processing Record 89 | the city of: kodiak has been added
+Processing Record 90 | the city of: port macquarie has been added
+Processing Record 91 | the city of: pristen has been added
+Processing Record 92 | the city of: tsuruga has been added
+Processing Record 93 | the city of: qaqortoq has been added
+Processing Record 94 | the city of: pevek has been added
+Processing Record 95 | the city of: lebu has been added
+Processing Record 95 | The city of chagda is unavailable
+Processing Record 96 | the city of: comodoro rivadavia has been added
+Processing Record 97 | the city of: phan thiet has been added
+Processing Record 98 | the city of: reconquista has been added
+Processing Record 99 | the city of: dukat has been added
+Processing Record 99 | The city of grand river south east is unavailable
+Processing Record 100 | the city of: katsuura has been added
+Processing Record 101 | the city of: mandalgovi has been added
+Processing Record 102 | the city of: tiksi has been added
+Processing Record 103 | the city of: calama has been added
+Processing Record 104 | the city of: prachuap khiri khan has been added
+Processing Record 105 | the city of: krasnoselkup has been added
+Processing Record 106 | the city of: punta arenas has been added
+Processing Record 107 | the city of: bengkulu has been added
+Processing Record 108 | the city of: hami has been added
+Processing Record 108 | The city of sumbawa is unavailable
+Processing Record 109 | the city of: cidreira has been added
+Processing Record 110 | the city of: zelenoborskiy has been added
+Processing Record 111 | the city of: bandarbeyla has been added
+Processing Record 111 | The city of azimur is unavailable
+Processing Record 0 | The city of taolanaro is unavailable
+Processing Record 1 | the city of: arlit has been added
+Processing Record 2 | the city of: huangmei has been added
+Processing Record 3 | the city of: coihaique has been added
+Processing Record 4 | the city of: punta arenas has been added
+Processing Record 5 | the city of: kapaa has been added
+Processing Record 6 | the city of: alta floresta has been added
+Processing Record 7 | the city of: iqaluit has been added
+Processing Record 8 | the city of: san jose has been added
+Processing Record 9 | the city of: port alfred has been added
+Processing Record 10 | the city of: yarada has been added
+Processing Record 11 | the city of: nikolskoye has been added
+Processing Record 11 | The city of grand river south east is unavailable
+Processing Record 12 | the city of: necochea has been added
+Processing Record 13 | the city of: vaini has been added
+Processing Record 14 | the city of: georgetown has been added
+Processing Record 15 | the city of: sinfra has been added
+Processing Record 16 | the city of: ushuaia has been added
+Processing Record 17 | the city of: arraial do cabo has been added
+Processing Record 18 | the city of: hilo has been added
+Processing Record 19 | the city of: saint-philippe has been added
+Processing Record 20 | the city of: brokopondo has been added
+Processing Record 21 | the city of: nhamunda has been added
+Processing Record 22 | the city of: saint andrews has been added
+Processing Record 23 | the city of: yellowknife has been added
+Processing Record 24 | the city of: castro has been added
+Processing Record 25 | the city of: barrow has been added
+Processing Record 26 | the city of: mataura has been added
+Processing Record 27 | the city of: ketchikan has been added
+Processing Record 28 | the city of: comodoro rivadavia has been added
+Processing Record 29 | the city of: yerbogachen has been added
+Processing Record 30 | the city of: hermanus has been added
+Processing Record 30 | The city of saleaula is unavailable
+Processing Record 31 | the city of: yining has been added
+Processing Record 32 | the city of: nola has been added
+Processing Record 33 | the city of: hoquiam has been added
+Processing Record 34 | the city of: pevek has been added
+Processing Record 35 | the city of: ribeira grande has been added
+Processing Record 36 | the city of: trapani has been added
+Processing Record 37 | the city of: bilibino has been added
+Processing Record 38 | the city of: bluff has been added
+Processing Record 38 | The city of umzimvubu is unavailable
+Processing Record 38 | The city of nizhneyansk is unavailable
+Processing Record 38 | The city of tsihombe is unavailable
+Processing Record 39 | the city of: puerto ayora has been added
+Processing Record 40 | the city of: albany has been added
+Processing Record 41 | the city of: poum has been added
+Processing Record 42 | the city of: rikitea has been added
+Processing Record 43 | the city of: qaanaaq has been added
+Processing Record 44 | the city of: gat has been added
+Processing Record 45 | the city of: kodiak has been added
+Processing Record 46 | the city of: lorengau has been added
+Processing Record 47 | the city of: jamestown has been added
+Processing Record 48 | the city of: bambous virieux has been added
+Processing Record 49 | the city of: busselton has been added
+Processing Record 50 | the city of: okha has been added
+Processing Record 51 | the city of: atar has been added
+Processing Record 52 | the city of: naze has been added
+Processing Record 53 | the city of: tateyama has been added
+Processing Record 54 | the city of: olafsvik has been added
+Processing Record 54 | The city of amparai is unavailable
+Processing Record 55 | the city of: tilichiki has been added
+Processing Record 56 | the city of: dinar has been added
+Processing Record 57 | the city of: chopda has been added
+Processing Record 57 | The city of el faiyum is unavailable
+Processing Record 58 | the city of: nuuk has been added
+Processing Record 59 | the city of: mount isa has been added
+Processing Record 60 | the city of: taicheng has been added
+Processing Record 61 | the city of: nouadhibou has been added
+Processing Record 62 | the city of: port hardy has been added
+Processing Record 63 | the city of: rocha has been added
+Processing Record 64 | the city of: point pleasant has been added
+Processing Record 65 | the city of: chipinge has been added
+Processing Record 66 | the city of: tiksi has been added
+Processing Record 67 | the city of: bengkulu has been added
+Processing Record 68 | the city of: coahuayana has been added
+Processing Record 69 | the city of: richards bay has been added
+Processing Record 70 | the city of: jinxiang has been added
+Processing Record 71 | the city of: cheremkhovo has been added
+Processing Record 72 | the city of: portland has been added
+Processing Record 73 | the city of: khatanga has been added
+Processing Record 74 | the city of: pisco has been added
+Processing Record 75 | the city of: twin falls has been added
+Processing Record 75 | The city of samusu is unavailable
+Processing Record 76 | the city of: itaituba has been added
+Processing Record 77 | the city of: chuy has been added
+Processing Record 78 | the city of: flinders has been added
+Processing Record 79 | the city of: berga has been added
+Processing Record 79 | The city of barentsburg is unavailable
+Processing Record 80 | the city of: cuamba has been added
+Processing Record 81 | the city of: sanary-sur-mer has been added
+Processing Record 81 | The city of dianopolis is unavailable
+Processing Record 82 | the city of: aksay has been added
+Processing Record 83 | the city of: cherskiy has been added
+Processing Record 84 | the city of: avarua has been added
+Processing Record 85 | the city of: sao joao da barra has been added
+Processing Record 86 | the city of: havre-saint-pierre has been added
+Processing Record 87 | the city of: grasse has been added
+Processing Record 88 | the city of: luwuk has been added
+Processing Record 89 | the city of: rangia has been added
+Processing Record 89 | The city of illoqqortoormiut is unavailable
+Processing Record 89 | The city of lolua is unavailable
+Processing Record 90 | the city of: hasaki has been added
+Processing Record 91 | the city of: komsomolskiy has been added
+Processing Record 92 | the city of: saint-paul has been added
+Processing Record 93 | the city of: diamantino has been added
+Processing Record 94 | the city of: mayumba has been added
+Processing Record 94 | The city of amderma is unavailable
+Processing Record 95 | the city of: port lincoln has been added
+Processing Record 96 | the city of: hobart has been added
+Processing Record 97 | the city of: baragua has been added
+Processing Record 98 | the city of: bredasdorp has been added
+Processing Record 99 | the city of: dakar has been added
+Processing Record 100 | the city of: pacific grove has been added
+Processing Record 101 | the city of: verkhnevilyuysk has been added
+Processing Record 102 | the city of: victor harbor has been added
+Processing Record 103 | the city of: dikson has been added
+Processing Record 104 | the city of: puerto baquerizo moreno has been added
+Processing Record 105 | the city of: carnarvon has been added
+Processing Record 106 | the city of: katima mulilo has been added
+Processing Record 107 | the city of: sale has been added
+Processing Record 108 | the city of: esperance has been added
+Processing Record 109 | the city of: antigonish has been added
+Processing Record 110 | the city of: dudinka has been added
+Processing Record 111 | the city of: taoudenni has been added
+Processing Record 112 | the city of: torbay has been added
+Processing Record 113 | the city of: betong has been added
+Processing Record 114 | the city of: antsohihy has been added
+Processing Record 115 | the city of: puerto maldonado has been added
+Processing Record 116 | the city of: chernyshevskiy has been added
+Processing Record 117 | the city of: sao gabriel has been added
+Processing Record 118 | the city of: otane has been added
+Processing Record 119 | the city of: port blair has been added
+Processing Record 120 | the city of: ternate has been added
+Processing Record 121 | the city of: larsnes has been added
+Processing Record 122 | the city of: gravdal has been added
+Processing Record 122 | The city of antagan is unavailable
+Processing Record 123 | the city of: leshukonskoye has been added
+Processing Record 124 | the city of: plouzane has been added
+Processing Record 125 | the city of: zhigansk has been added
+Processing Record 126 | the city of: norman wells has been added
+Processing Record 127 | the city of: atuona has been added
+Processing Record 128 | the city of: barcelos has been added
+Processing Record 129 | the city of: jiblah has been added
+Processing Record 130 | the city of: geraldton has been added
+Processing Record 131 | the city of: nouakchott has been added
+Processing Record 132 | the city of: kosh-agach has been added
+Processing Record 133 | the city of: praia has been added
+Processing Record 134 | the city of: ugoofaaru has been added
+Processing Record 135 | the city of: almeida has been added
+Processing Record 136 | the city of: ponta do sol has been added
+Processing Record 137 | the city of: longyearbyen has been added
+Processing Record 138 | the city of: san juan de abajo has been added
+Processing Record 139 | the city of: tuktoyaktuk has been added
+Processing Record 140 | the city of: bethel has been added
+Processing Record 141 | the city of: nyurba has been added
+Processing Record 142 | the city of: saint-joseph has been added
+Processing Record 142 | The city of longlac is unavailable
+Processing Record 143 | the city of: half moon bay has been added
+Processing Record 144 | the city of: new norfolk has been added
+Processing Record 145 | the city of: augustow has been added
+Processing Record 146 | the city of: rio gallegos has been added
+Processing Record 147 | the city of: erenhot has been added
+Processing Record 147 | The city of alotau is unavailable
+Processing Record 148 | the city of: hithadhoo has been added
+Processing Record 148 | The city of vaitupu is unavailable
+Processing Record 149 | the city of: mehamn has been added
+Processing Record 150 | the city of: astana has been added
+Processing Record 151 | the city of: vao has been added
+Processing Record 152 | the city of: mareeba has been added
+Processing Record 153 | the city of: kaitangata has been added
+Processing Record 154 | the city of: constitucion has been added
+Processing Record 155 | the city of: atikokan has been added
+Processing Record 156 | the city of: ambon has been added
+Processing Record 157 | the city of: nha trang has been added
+Processing Record 158 | the city of: mawlaik has been added
+Processing Record 159 | the city of: fort payne has been added
+Processing Record 160 | the city of: pereira barreto has been added
+Processing Record 161 | the city of: airai has been added
+Processing Record 162 | the city of: wajir has been added
+Processing Record 163 | the city of: kuznechnoye has been added
+Processing Record 164 | the city of: klaksvik has been added
+Processing Record 165 | the city of: la macarena has been added
+Processing Record 166 | the city of: provideniya has been added
+Processing Record 167 | the city of: griffith has been added
+Processing Record 168 | the city of: santa cruz has been added
